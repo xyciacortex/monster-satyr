@@ -1,0 +1,11 @@
+openapi: 3.0.1
+info:
+  title: monster-satyr
+  x-cortex-tag: monster-satyr
+x-cortex-custom-data:
+  alignment: chaotic-good
+  source: dnd-5e
+x-cortex-owners:
+- email: bestiary@dnd.com
+x-cortex-tag: monster-satyr
+x-cortex-type: monster
